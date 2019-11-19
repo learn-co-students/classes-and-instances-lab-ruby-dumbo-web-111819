@@ -1,6 +1,6 @@
 class Dog
 end
 
-hot_dog = Dog.new
-my_dog = Dog.new
-your_dog = Dog.new
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
